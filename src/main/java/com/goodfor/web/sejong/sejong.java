@@ -4,4 +4,6 @@ public class sejong {
 //sejong
 	
 	//test01
+	
+	//test02
 }
